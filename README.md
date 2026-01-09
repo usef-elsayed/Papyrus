@@ -31,4 +31,4 @@ If you found an issue or would like to submit an improvement to this project, pl
 
 ## License
 
-The patches published as part of the Travel Buddy project are released under [GNU GPL v3](./LICENSE).
+The patches published as part of the Travel Buddy project are released under [GNU GPL v3](./LICENSE.txt).
