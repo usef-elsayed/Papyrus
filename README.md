@@ -1,5 +1,5 @@
 
-# Travel Buddy
+# Papyrus
 
 A polished Native Flutter application designed as your personal pocket library. Papyrus leverages Clean Architecture and modern state management to provide a seamless reading experience, allowing users to import, organize, and read books in PDF and EPUB formats.
 
